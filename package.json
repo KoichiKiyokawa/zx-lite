@@ -1,6 +1,6 @@
 {
   "name": "@kiyoshiro/zx-lite",
-  "version": "0.0.1-beta.7",
+  "version": "0.0.1",
   "license": "MIT",
   "description": "A light-weight version of google/zx",
   "main": "dist/index.js",
