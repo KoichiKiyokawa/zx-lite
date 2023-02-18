@@ -17,8 +17,8 @@ Write your script in `.mts` file.
 import "@kiyoshiro/zx-lite/globals"
 
 // Look. Different from google/zx, you can omit `await`
+$`sleep 1`
 $`echo Hello, world!`
-await sleep(1000)
 ```
 
 Run your script.
