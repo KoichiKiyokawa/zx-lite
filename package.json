@@ -54,7 +54,7 @@
   "devDependencies": {
     "@types/node": "18.14.2",
     "@vitest/coverage-c8": "0.29.1",
-    "bumpp": "8.2.1",
+    "bumpp": "9.0.0",
     "husky": "8.0.3",
     "lint-staged": "13.1.2",
     "rome": "11.0.0",
